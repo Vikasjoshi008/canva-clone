@@ -115,3 +115,45 @@ font-weight: 600;
 border: none;
 border-radius: 4px;
 }
+.main2 {
+    display: flex;
+    justify-content: flex-start;
+    margin: 140px 0px;
+}
+
+.box {
+    height: 220px;
+    width: 180px;
+    background-color: rgb(240, 105, 105);
+    border-radius: 10px;
+    display: flex;
+    margin: 0px 10px;
+}
+.box1 {
+    background-image: url("https://content-management-files.canva.com/cdn-cgi/image/format=auto,w=352/9cf118fb-ed55-479b-ba72-7463abf6c920/docs_en_desktop.jpg");
+    background-size: cover;
+}
+.box2 {
+    background-image: url("https://content-management-files.canva.com/cdn-cgi/image/format=auto,w=352/ca5de8c1-746f-4ed5-9581-5830c5b1d3f0/whiteboards_en_desktop.jpg");
+    background-size: cover;
+}
+.box3 {
+    background-image: url("https://content-management-files.canva.com/cdn-cgi/image/format=auto,w=352/75d73709-81d8-4be7-baaa-ea27097f6212/presentations_en_au_desktop.jpg");
+    background-size: cover;
+}
+.box4 {
+    background-image: url("https://content-management-files.canva.com/cdn-cgi/image/format=auto,w=352/f308c024-a5e9-4e05-ab78-c5f4954b62ad/social_en_au_desktop.jpg");
+    background-size: cover;
+}
+.box5 {
+    background-image: url("https://content-management-files.canva.com/cdn-cgi/image/format=auto,w=352/d0e11c60-5f8b-4652-bcd0-33ee2be22093/videos_en_au_desktop.jpg");
+    background-size: cover;
+}
+.box6 {
+    background-image: url("https://content-management-files.canva.com/cdn-cgi/image/format=auto,w=352/8a1451cf-3ba0-4e8a-b469-f5010862b5cf/prints_en_desktop.jpg");
+    background-size: cover;
+}
+.box7 {
+    background-image: url("https://content-management-files.canva.com/cdn-cgi/image/format=auto,w=352/4d134638-a29e-44d6-af9a-c70eb4c0dd43/websites_en_desktop.jpg");
+    background-size: cover;
+}
